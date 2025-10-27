@@ -1,0 +1,17 @@
+{
+  "name": "exercise-loader",
+  "version": "1.0.0",
+  "description": "Load exercises into Supabase database",
+  "type": "module",
+  "scripts": {
+    "load": "tsx load-exercises.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
