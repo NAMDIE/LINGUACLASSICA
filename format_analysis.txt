@@ -1,0 +1,48 @@
+=== SEARCHING FOR EXERCISE FORMATS ===
+
+Pattern 1 (^###\s+Exercise\s+\d+): 65 matches
+  ### Exercise 81
+  ### Exercise 82
+  ### Exercise 83
+  ### Exercise 84
+  ### Exercise 85
+  ### Exercise 86
+  ### Exercise 87
+  ### Exercise 88
+  ### Exercise 89
+  ### Exercise 90
+Pattern 2 (^\*\*Exercise\s+\d+): 0 matches
+Pattern 3 (^##\s+Exercise\s+\d+): 0 matches
+Pattern 4 (^Exercise\s+\d+:): 0 matches
+Pattern 5 (^\d+\.\s+): 10 matches
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+  6. 
+  1. 
+  2. 
+  3. 
+  4. 
+
+=== FIRST OCCURRENCES OF KEY MARKERS ===
+
+**Greek Text:** first appears at line 608
+Context: ...xercises (26 additional exercises needed)
+
+### Exercise 81: Herodotus - Lydian Historical Account
+- **Greek Text:** Κροῖσος ἦν Λυδὸς μὲν γένος, παῖς δὲ Ἀλυάττεω, τύραννος δὲ ἐθνέων τῶν ἐντὸς Ἅλυος ποτ...
+
+**English Translation:** first appears at line 610
+Context: ...ν ἐν Πόντῳ ὀρέων πρὸς τὴν ἠελίου τε δύσιν καὶ τὰ μεσημβρινὰ ἔρημα ῥέει
+- **Word Count:** 18 words
+- **English Translation:** "Croesus was a Lydian by birth, son of Alyattes, tyrant of nations within t...
+
+**Vocabulary:** first appears at line 611
+Context: ...alys river, which flowing from the mountains in Pontus toward the sunset and desert places flows"
+- **Vocabulary:**
+  - Κροῖσος (Croesus, nominative)
+  - ἦν (he was, past indicative)
+  - Λυδὸς (Lydian...
+

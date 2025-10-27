@@ -1,0 +1,3 @@
+Uploaded: 0
+Failed: 65
+Total: 65

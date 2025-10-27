@@ -1,0 +1,4 @@
+Successfully uploaded 15 exercises
+Expert: 9
+Master: 6
+Status: SUCCESS

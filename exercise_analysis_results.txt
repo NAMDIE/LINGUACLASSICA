@@ -1,0 +1,47 @@
+=== GREEK EXERCISE DATABASE ANALYSIS ===
+Total lines in file: 3302
+
+Total exercises found: 65
+
+Exercise number range: 81 to 145
+Expected if continuous: 65
+
+First 15 exercises:
+  Exercise 81: Herodotus - Lydian Historical Account
+  Exercise 82: Plato Euthyphro - Socratic Method in Dialogue
+  Exercise 83: Homeric Epic - Divine Council Scene
+  Exercise 84: Herodotus - Persian Origin Account  
+  Exercise 85: Platonic Dialogue - Philosophical Inquiry Structure
+  Exercise 86: Homeric Epic - Character Speech and Emotion
+  Exercise 87: Herodotus - Causality in Historical Narrative
+  Exercise 88: Platonic Socratic Dialogue - Knowledge vs. Opinion
+  Exercise 89: Epic Invocation - Divine Call to Action
+  Exercise 90: Historical Geography - Persian Perspective
+  Exercise 91: Platonic Argumentation - Dialectical Refutation
+  Exercise 92: Epic Formula - Divine Epithet System
+  Exercise 93: Historical Method - Evidence Evaluation
+  Exercise 94: Philosophical Definition - Justice and Virtue
+  Exercise 95: Epic Narrative - Psychological Description
+
+Last 15 exercises:
+  Exercise 131: Advanced Epic Heroic Speech
+  Exercise 132: Extended Philosophical Examination
+  Exercise 133: Complex Historical Analysis
+  Exercise 134: Advanced Epic Divine Interaction
+  Exercise 135: Sophisticated Philosophical Inquiry
+  Exercise 136: Extended Epic Invocation - Apollo's Prayer
+  Exercise 137: Extended Platonic Dialogue - The Nature of Virtue
+  Exercise 138: Extended Historical Narrative - Persian Customs
+  Exercise 139: Extended Epic Battle Sequence
+  Exercise 140: Extended Philosophical Dialogue on Knowledge
+  Exercise 141: Extended Epic Heroic Confrontation
+  Exercise 142: Extended Historical Analysis - Methodology
+  Exercise 143: Extended Philosophical Paradox - The Good
+  Exercise 144: Extended Epic Narrative Architecture
+  Exercise 145: Final Extended Philosophical Synthesis
+
+Total '**Greek Text:**' markers: 144
+Total '**English Translation:**' markers: 65
+Total '**Vocabulary:**' markers: 65
+Total '**Grammar Notes:**' markers: 65
+Total '**Cultural Context:**' markers: 66

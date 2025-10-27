@@ -1,0 +1,38 @@
+=== GREEK EXERCISES WITH DIFFICULTY LEVELS ===
+
+Total exercises: 65
+
+Difficulty distribution:
+  Beginner: 0
+  Intermediate: 0
+  Advanced: 20
+  Expert: 20
+  Master: 25
+  Unknown: 0
+
+=== EXERCISES BY DIFFICULTY ===
+
+
+Advanced Level (20 exercises):
+  Exercise 81: Herodotus - Lydian Historical Account
+  Exercise 82: Plato Euthyphro - Socratic Method in Dialogue
+  Exercise 83: Homeric Epic - Divine Council Scene
+  Exercise 84: Herodotus - Persian Origin Account  
+  Exercise 85: Platonic Dialogue - Philosophical Inquiry Structure
+  ... and 15 more
+
+Expert Level (20 exercises):
+  Exercise 101: Extended Herodotus Historical Narrative
+  Exercise 102: Complex Platonic Dialogue Passage
+  Exercise 103: Extended Homeric Epic Passage - Divine Council
+  Exercise 104: Advanced Platonic Philosophical Argument
+  Exercise 105: Historical Geographic Description
+  ... and 15 more
+
+Master Level (25 exercises):
+  Exercise 121: Extended Platonic Philosophical Passage - The Nature of Justice
+  Exercise 122: Extended Herodotus Historical Narrative - Croesus Biography
+  Exercise 123: Extended Epic Passage - Achilles' Withdrawal
+  Exercise 124: Extended Philosophical Dialogue - The Knowledge Paradox
+  Exercise 125: Extended Epic Divine Council Scene
+  ... and 20 more

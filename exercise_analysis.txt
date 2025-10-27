@@ -1,0 +1,14 @@
+Total lines in file: 3302
+Line 162: ### Exercise Template Field Dictionary
+Line 607: ### Exercise 81: Herodotus - Lydian Historical Account
+Line 647: ### Exercise 82: Plato Euthyphro - Socratic Method in Dialogue
+Line 671: ### Exercise 83: Homeric Epic - Divine Council Scene
+Line 694: ### Exercise 84: Herodotus - Persian Origin Account
+Line 715: ### Exercise 85: Platonic Dialogue - Philosophical Inquiry Structure
+Line 741: ### Exercise 86: Homeric Epic - Character Speech and Emotion
+Line 759: ### Exercise 87: Herodotus - Causality in Historical Narrative
+Line 778: ### Exercise 88: Platonic Socratic Dialogue - Knowledge vs. Opinion
+Line 802: ### Exercise 89: Epic Invocation - Divine Call to Action
+
+Total exercises found: 66
+Total '**Greek Text:**' markers: 144

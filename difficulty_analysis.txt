@@ -1,0 +1,14 @@
+=== DIFFICULTY LEVEL SECTIONS ===
+
+Line 475: ### Beginner Level
+Line 481: ### Intermediate Level
+Line 487: ### Advanced Level
+Line 493: ### Expert Level
+Line 499: ### Master Level
+Line 605: ### Advanced Level
+Line 1093: ### Expert Level
+Line 1722: ### Master Level
+Line 2616: ### Master Level
+
+=== SEARCHING FOR BEGINNER/INTERMEDIATE EXERCISES ===
+
